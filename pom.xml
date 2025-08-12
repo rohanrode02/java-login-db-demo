@@ -30,5 +30,5 @@
   </dependencies>
   <build>
     <finalName>java-login-db-demo</finalName>
-  </build>
+</build>
 </project>

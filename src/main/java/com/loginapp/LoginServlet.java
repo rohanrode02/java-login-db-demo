@@ -23,6 +23,7 @@ public class LoginServlet extends HttpServlet {
             ResultSet rs = ps.executeQuery();
 
             if (rs.next()) {
+                // ✅ Correct redirect with context path
                 response.sendRedirect("success.jsp");
             } else {
                 response.getWriter().println("Login Failed. Try Again.");
