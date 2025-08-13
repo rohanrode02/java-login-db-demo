@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title style="color: red;">Login Page</title>
+    <title style="color: purple;">Login Page</title>
 </head>
 <body>
     <h2>Login</h2>
