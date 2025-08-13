@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login Page for student</title>
+    <title style="color: red;">Login Page</title>
 </head>
 <body>
     <h2>Login</h2>
