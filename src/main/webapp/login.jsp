@@ -5,7 +5,7 @@
 </head>
 <body>
     <h2 style="color: red;">welcome to login page</h2>
-    <h2 style="color: purple; background-color: green;">Login</h2>
+    <h2 style="color: orange; background-color: green;">Login</h2>
     <form method="post" action="login">
         Username: <input type="text" name="username" /><br><br>
         Password: <input type="password" name="password" /><br><br>
