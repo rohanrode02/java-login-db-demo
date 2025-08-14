@@ -4,6 +4,7 @@
     <title>Login Page</title>
 </head>
 <body>
+    <h2>welcome to login page</h2>
     <h2 style="color: purple; background-color: green;">Login</h2>
     <form method="post" action="login">
         Username: <input type="text" name="username" /><br><br>
